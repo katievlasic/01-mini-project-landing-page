@@ -1,0 +1,40 @@
+*{background-color: burlywood}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    background-color: solid goldenrod;
+    font-size: xx-large;
+    text-align: center;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 { 
+    font-size: medium;
+    background-color: beige;
+    width: 20%;
+    color: black;
+}
+
+.design {
+    background-color: darkolivegreen;
+    width: 50%;
+    font-size: xx-large;
+}
+
+h2 {
+    background-color: beige;
+    width: 100%;
+    color: black;
+    font-size: medium
+}
+
+.image {
+    padding: 20px 20px;
+    border: 10px solid lightblue;
+    margin: 20px;
+    size-adjust: 20%;
+}
